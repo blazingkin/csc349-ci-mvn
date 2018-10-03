@@ -1,3 +1,4 @@
+mvn package
 mvn sonar:sonar \
 	  -Dsonar.projectKey=blazingkin_csc349ci \
 	    -Dsonar.organization=blazingkin-github \
